@@ -8,7 +8,6 @@
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gschandan&show_icons=true&theme=react) -->
 
 
-
 I use:
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
