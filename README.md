@@ -1,9 +1,10 @@
 
 <img src="https://github.com/gschandan/gschandan/blob/main/vert_banner_1.png?raw=true" align="left" width="200px"></a>
 ---  
+  <br/><br/>
   
-  
-### Hi there 👋, I'm Gurmukh
+<h3 align="center">Hi there 👋, I'm Gurmukh </h3>
+<br/><br/>
 <!-- ![image]()
  -->
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=gschandan) -->
@@ -17,10 +18,12 @@ Currently I am learning and practicing with JavaScript, TypeScript, MongoDB and 
  
 I am also trying to learn more about functional programming, natural computing and data science.
 </p>  
+<br/><br/>  
 
 ---  
   
-  
+   
+        
 <div align="center">
 
  
