@@ -8,7 +8,8 @@
 <!-- ![image](https://github-readme-stats.vercel.app/api?username=gschandan) -->
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gschandan&show_icons=true&theme=react) -->
 <p align=left>
-I'm studying to become a full-stack software engineer. Currently I am learning/practicing with JavaScript, TypeScript, MongoDB and PostgreSQL, and trying to learn more about functional programming, natural computing and data science.
+I'm studying to become a full-stack software engineer. Currently I am learning/practicing with JavaScript, TypeScript, MongoDB and PostgreSQL.
+I am also trying to learn Go, and more about functional programming, natural computing and data science.
 </p>  
 
 ---  
