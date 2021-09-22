@@ -1,6 +1,9 @@
-### Hi there 👋, I'm Gurmukh
----  
 
+<img src="https://github.com/gschandan/gschandan/blob/main/vert_banner_1.png?raw=true" align="left" width="200px"></a>
+---  
+  
+  
+### Hi there 👋, I'm Gurmukh
 <!-- ![image]()
  -->
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=gschandan) -->
@@ -8,14 +11,20 @@
 <!-- ![image](https://github-readme-stats.vercel.app/api?username=gschandan) -->
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gschandan&show_icons=true&theme=react) -->
 <p align=left>
-I'm studying to become a full-stack software engineer. Currently I am learning/practicing with JavaScript, TypeScript, MongoDB and PostgreSQL.
-I am also trying to learn Go, and more about functional programming, natural computing and data science.
+I'm studying to become a full-stack software engineer.  
+ 
+Currently I am learning and practicing with JavaScript, TypeScript, MongoDB and PostgreSQL.  
+ 
+I am also trying to learn more about functional programming, natural computing and data science.
 </p>  
 
 ---  
-
+  
+  
 <div align="center">
 
+ 
+  
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
