@@ -14,9 +14,9 @@
 <p align=left>
 I'm studying to become a full-stack software engineer.  
  
-Currently I am learning and practicing with JavaScript, TypeScript, MongoDB and PostgreSQL.  
+Currently I am learning Go and PostgreSQL.  
  
-I am also trying to learn more about functional programming, natural computing and data science.
+I am also trying to learn more about computer vision and natural computing.
 </p>  
 <br/><br/>  
 
