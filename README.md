@@ -12,11 +12,10 @@
 <!-- ![image](https://github-readme-stats.vercel.app/api?username=gschandan) -->
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gschandan&show_icons=true&theme=react) -->
 <p align=left>
-I'm studying to become a software engineer.  
- 
+I'm a junior backend software engineer.  
 Currently I am learning C# and .NET framework.  
  
-I am also currently studying the basics of computer vision and natural computing algorithms.
+I am also studying the basics of computer vision/ROS and natural computing algorithms.
 </p>  
 <br/><br/>  
 
