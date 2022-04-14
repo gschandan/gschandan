@@ -15,7 +15,6 @@
 I'm a junior backend software engineer.  
 Currently I am learning C# and .NET framework.  
  
-I am also studying the basics of computer vision/ROS and natural computing algorithms.
 </p>  
 <br/><br/>  
 
