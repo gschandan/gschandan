@@ -3,12 +3,12 @@
 ---  
   
 <h3 align="center">Hi there 👋, I'm Gurmukh </h3>  
- 
+   <br />
 <p align=left>
 I am a junior software engineer and I'm developing my knowledge of C#, .NET, PostgreSQL and Cassandra.   
 My background is in the field of medicine, and I am currently studying data science.   
 </p>  
-  <br />  <br />
+  <br />
 <p align=center>You can also find me on:</p>  
 <div align="center">
 
